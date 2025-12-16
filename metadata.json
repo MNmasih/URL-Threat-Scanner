@@ -1,0 +1,5 @@
+{
+  "name": "LinkGuardian AI",
+  "description": "An advanced AI-powered URL scanner and phishing detector. Analyze suspicious links using Gemini's reasoning and Google Search grounding to identify potential threats before you click.",
+  "requestFramePermissions": []
+}
